@@ -185,7 +185,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url(https://yandex.ru/images/search?p=1&text=laptop+wallpaper&pos=45&rpt=simage&img_url=https%3A%2F%2Fwww.letemsvetemapplem.eu%2Fwp-content%2Fuploads%2F2016%2F09%2Fmrv_011-12-100657853-orig.jpg&lr=10335) no-repeat center;
+    background: url(https://yandex.ru/images/search?p=2&source=related-query-serp&text=laptop+wallpaper+hd&pos=74&rpt=simage&nomisspell=1&img_url=https%3A%2F%2Fwww.netdata.nl%2Fwp-content%2Fuploads%2F2018%2F11%2Fnieuws-header.jpg&lr=10335) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
